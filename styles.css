@@ -5,14 +5,15 @@ body {
 
 .assignment{
     display:flex;
-    padding: 15 px;
+    padding:15px;
+    margin:15px;
+    background: lightgray;
 }
 
 .assignment img{
     width:200px;
-    padding: 15 px;
-    margin: 15 px;
-    background: lightgray;
+    height:257px;
+    padding:15px;
 }
 
 h2 {
